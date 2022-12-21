@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-agency-reactjs/static/css/main.ae42ac5f.css",
+    "main.js": "/web-agency-reactjs/static/js/main.4286b4b8.js",
+    "index.html": "/web-agency-reactjs/index.html",
+    "main.ae42ac5f.css.map": "/web-agency-reactjs/static/css/main.ae42ac5f.css.map",
+    "main.4286b4b8.js.map": "/web-agency-reactjs/static/js/main.4286b4b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.4286b4b8.js"
+  ]
+}
